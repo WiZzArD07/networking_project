@@ -79,7 +79,7 @@ python-networking-projects/
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 Clone the repository:
 
@@ -101,7 +101,7 @@ pip install requests speedtest-cli
 
 ---
 
-## ▶️ Running Projects
+## Running Projects
 
 ### Internet Connection Checker
 
@@ -140,12 +140,12 @@ python main.py
 
 ---
 
-## 📸 Sample Outputs
+## Sample Outputs
 
 ### Internet Connection Checker
 
 ```text
-✅ Internet connection is active.
+ Internet connection is active.
 ```
 
 ### Public IP Finder
@@ -184,7 +184,7 @@ Public IP: 103.xxx.xxx.xxx
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 By building these projects, you will gain hands-on experience with:
 
@@ -201,7 +201,7 @@ By building these projects, you will gain hands-on experience with:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Build a unified Network Toolkit CLI
 - Add GUI using Tkinter or PyQt
@@ -213,7 +213,7 @@ By building these projects, you will gain hands-on experience with:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome.
 
@@ -221,14 +221,14 @@ Feel free to fork the repository and submit a pull request.
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## ⭐ Support
+## Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
-Happy Coding! 🚀
+Happy Coding! 
